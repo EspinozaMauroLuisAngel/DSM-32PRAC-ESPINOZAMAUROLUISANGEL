@@ -1,0 +1,15 @@
+var num1 = 10;
+var num2 = 10;
+console.log ("Operaciones Basicas"); 
+console.log ("La Suma de los dos valores es:",num1+num2); 
+console.log ("La Resta de los dos valores es:",num1-num2); 
+console.log ("La Multiplicacion de los dos valores es:",num1*num2); 
+console.log ("La Division de los dos valores es:",num1/num2); 
+console.log ("Calcular Area del Cuadrado"); 
+var lado1 = 12;
+var lado2 = 12;
+console.log("El Area del Cuadrado es:",lado1*lado2);
+console.log ("Calcular Area del Triangulo"); 
+var base = 4;
+var altura = 5;
+console.log ("El Area del Triangulo es:",base*altura/2);
